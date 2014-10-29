@@ -203,7 +203,7 @@
 # OSX Yosemite Bootdisk
 
 0. Insert a USB drive (8GB or higher is best).
-0. Open Disk Utility and format the USB drive (leave the label as "Untitled").
+0. Open Disk Utility and Format it as Mac OS X Extended (Journaled) with a MBR partition map (leave the label as "Untitled").
 0. Download OSX Yosemite via the App Store but *DO NOT INSTALL*.
 0. Run this command to turn the USB drive into bootable image:
 
