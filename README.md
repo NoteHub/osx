@@ -83,7 +83,7 @@
     - [Opera](http://www.opera.com)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Transmit](https://panic.com/transmit)
-    - [iStat Menus](http://bjango.com/apps/istatmenus)
+    - [iStat Menus](http://bjango.com/apps/istatmenus) to see resource utilization on menubar.
     - [Bartender](http://www.macbartender.com)
     - [Snippets](http://www.snippetsapp.com)
     - [CodeKit](http://incident57.com/codekit)
@@ -300,11 +300,10 @@ All Bash functions, used by the scripts defined above, can be found in the funct
 I also recommend installing the following software found via the
 [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
 
-- [iStat Menus] (http://bjango.com/mac/istatmenus/) to see resource utilization on menubar.
 - [BoxCryptor Classic](https://www.boxcryptor.com/en/classic) to encrypt cloud files.
 - [Google Drive](https://drive.google.com/) to store cloud files.
 - [GrandPerspective](http://grandperspectiv.sourceforge.net/) or [DaisyDisk](http://www.daisydiskapp.com) to show disk utilization.
-- [Moom](http://manytricks.com/moom) or [Divyy] (http://mizage.com/divvy/) to control window position.
+- [Moom](http://manytricks.com/moom) or [Divyy](http://mizage.com/divvy/) to control window position.
 - [Witch](http://manytricks.com/witch) - [Yosemite Workaround](http://manytricks.com/blog/?p=3173) for application switching.
 - [mSecure](https://msevensoftware.com/msecure_mac) or [1Password](http://agilewebsolutions.com/products/1Password) for password management.
 - [GeekTool](http://www.macupdate.com/app/mac/10404/geektool) to displat system log on desktop.
@@ -332,7 +331,7 @@ I also recommend installing the following software found via the
 - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - [Slack](https://slack.com) or [Slack Multi-Team Beta](https://rink.hockeyapp.net/apps/06bd6493684f65a3b8f47aca92c9006e)
 - [Twitter](https://itunes.apple.com/us/app/twitter/id409789998?mt=12)
-- [Tumbler] (https://itunes.apple.com/us/app/tumblr/id929285034?mt=12) the Yosemite build is just cool.
+- [Tumbler](https://itunes.apple.com/us/app/tumblr/id929285034?mt=12) the Yosemite build is just cool.
 - [VPN](https://www.privateinternetaccess.com/installer/download_installer_osx) my favorite proxy.
 
 # Miscellaneous Software
