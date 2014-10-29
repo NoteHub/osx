@@ -1,6 +1,5 @@
 # Overview
 
-[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
 
 Shell scripts for automated OSX machine setup.
 
@@ -225,13 +224,13 @@ Open a terminal window and execute one of the following setup sequences dependin
 
 Current Version (stable):
 
-    git clone git://github.com/bkuhlmann/osx.git
+    git clone git://github.com/NoteHub/osx.git
     cd osx
     git checkout v8.0.0
 
 Master Version (unstable):
 
-    git clone git://github.com/bkuhlmann/osx.git
+    git clone git://github.com/NoteHub/osx.git
     cd osx
 
 # Usage
@@ -387,14 +386,22 @@ Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+Adopted from [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+A lot of this information comes from these sources:
+
+https://gist.github.com/kevinelliott/0726211d17020a6abc1f
+https://gist.github.com/kimmobrunfeldt/350f4898d1b82cf10bce
+http://scouringmacbook.blogspot.fi/
+https://gist.github.com/1623487/88bb6766048133d2a68403d02531ce62c46ad404
+https://gist.github.com/jimmynotjim/7617722
+https://gist.github.com/benfrain/7434600
+http://coolestguidesontheplanet.com/install-and-configure-wget-on-os-x/
 
 # License
 
-Copyright (c) 2012 [Alchemists](https://www.alchemists.io).
 Read the [LICENSE](LICENSE.md) for details.
 
 # History
 
 Read the [CHANGELOG](CHANGELOG.md) for details.
-Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith).
+
