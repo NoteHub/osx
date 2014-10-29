@@ -1,7 +1,13 @@
 # Overview
 
-
-Shell scripts for automated OSX machine setup.
+Process and Shell scripts for automated OSX machine setup.
+- While rebuilding I prefer simple steps and as much verbose automation as possible.
+0. Step 1, collect requirements.
+0. Step 2, install or upgrade OSX 10.10.
+0. Step 3, run.sh script w/options.
+0. Step 4, customization.
+0. Step 5, app store and other software installation.
+0. Step 6, post installation checklist and optimization.
 
 # Features
 
