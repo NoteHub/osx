@@ -300,23 +300,21 @@ All Bash functions, used by the scripts defined above, can be found in the funct
 I also recommend installing the following software found via the
 [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
 
-- [DaisyDisk](http://www.daisydiskapp.com)
-- [Keymo](http://manytricks.com/keymo)
-- [Moom](http://manytricks.com/moom)
-- [Witch](http://manytricks.com/witch) - [Yosemite Workaround](http://manytricks.com/blog/?p=3173)
-- [1Password](http://agilewebsolutions.com/products/1Password)
-- [Fantastical](http://flexibits.com/fantastical)
-- [Cobook](http://www.cobookapp.com)
-- [Dash](http://kapeli.com/dash)
-- [PDFpenPro](http://www.smilesoftware.com/PDFpenPro/index.html)
-- [Marked](http://markedapp.com)
-- [OmniOutliner](http://www.omnigroup.com/applications/omnioutliner)
-- [OmniFocus](http://www.omnigroup.com/applications/omnifocus)
-- [Patterns](http://krillapps.com/patterns)
-- [ColorSnapper](http://colorsnapper.com)
-- [Gradient](http://www.gradientapp.com)
+- [iStat Menus] (http://bjango.com/mac/istatmenus/) to see resource utilization on menubar.
+- [BoxCryptor Classic](https://www.boxcryptor.com/en/classic) to encrypt cloud files.
+- [Google Drive](https://drive.google.com/) to store cloud files.
+- [GrandPerspective](http://grandperspectiv.sourceforge.net/) or [DaisyDisk](http://www.daisydiskapp.com) to show disk utilization.
+- [Moom](http://manytricks.com/moom) or [Divyy] (http://mizage.com/divvy/) to control window position.
+- [Witch](http://manytricks.com/witch) - [Yosemite Workaround](http://manytricks.com/blog/?p=3173) for application switching.
+- [mSecure](https://msevensoftware.com/msecure_mac) or [1Password](http://agilewebsolutions.com/products/1Password) for password management.
+- [GeekTool](http://www.macupdate.com/app/mac/10404/geektool) to displat system log on desktop.
+- [Dash](http://kapeli.com/dash) for code snippet management.
+- [OmniOutliner](http://www.omnigroup.com/applications/omnioutliner) or [WikidPad](http://wikidpad.sourceforge.net/) to outline your work.
+- [OmniFocus](http://www.omnigroup.com/applications/omnifocus) or [Tracks](http://www.getontracks.org/) for task management.
+- [ColorSnapper](http://colorsnapper.com) or [Gradient](http://www.gradientapp.com) for color selection.
 - [xScope](http://iconfactory.com/software/xscope)
 - [LittleSnapper](http://www.realmacsoftware.com/littlesnapper)
+- [LittleSnitch](http://www.obdev.at/products/littlesnitch/download.html) to control your web traffic.
 - [Pixelmator](http://www.pixelmator.com)
 - [GIF Brewery](http://www.helloresolven.com/portfolio/gifbrewery)
 - [Prepo](http://wearemothership.com/work/prepo)
@@ -334,6 +332,8 @@ I also recommend installing the following software found via the
 - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - [Slack](https://slack.com) or [Slack Multi-Team Beta](https://rink.hockeyapp.net/apps/06bd6493684f65a3b8f47aca92c9006e)
 - [Twitter](https://itunes.apple.com/us/app/twitter/id409789998?mt=12)
+- [Tumbler] (https://itunes.apple.com/us/app/tumblr/id929285034?mt=12) the Yosemite build is just cool.
+- [VPN](https://www.privateinternetaccess.com/installer/download_installer_osx) my favorite proxy.
 
 # Miscellaneous Software
 
