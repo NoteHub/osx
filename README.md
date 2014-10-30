@@ -343,6 +343,15 @@ The following software is optional:
 - [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download only)
 - [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
 
+# Addroid SDK
+
+Will add this to homebrew, until then install sdk manually.
+
+0. Download the latest Android SDK from Google: [Android SDK](http://developer.android.com/sdk/index.html)
+0. Extract the ZIP file to your desired location
+0. To get ADB, you need to install the SDK: [Installing the SDK](http://developer.android.com/sdk/installing.html)
+0. You are good to go, type in terminal `adb devices`
+
 # Post Install Checklist
 
 The following is a checklist of additional steps worth completing after the scripts have been executed:
