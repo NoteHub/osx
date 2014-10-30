@@ -345,12 +345,13 @@ The following software is optional:
 
 # Addroid SDK
 
-Will add this to homebrew, until then install sdk manually.
+Tool to install ADB and Fastboot on Mac OS X, Linux, and Chrome OS
 
-0. Download the latest Android SDK from Google: [Android SDK](http://developer.android.com/sdk/index.html)
-0. Extract the ZIP file to your desired location
-0. To get ADB, you need to install the SDK: [Installing the SDK](http://developer.android.com/sdk/installing.html)
-0. You are good to go, type in terminal `adb devices`
+`cd ~ && curl -s -o ./install.sh "http://github.com/corbindavenport/nexus-tools/raw/master/install.sh" -LOk && chmod +x ./install.sh && ./install.sh && rm ./install.sh`
+
+and to un-install:
+
+`cd ~ && curl -s -o ./uninstall.sh "http://github.com/corbindavenport/nexus-tools/raw/master/uninstall.sh" -LOk && chmod +x ./uninstall.sh && ./uninstall.sh && rm ./uninstall.sh`
 
 # Post Install Checklist
 
