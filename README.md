@@ -327,6 +327,7 @@ I also recommend installing the following software found via the
 - [GarageBand](http://www.apple.com/ilife/garageband)
 - [iMovie](http://www.apple.com/ilife/imovie)
 - [iPhoto](http://www.apple.com/ilife/iphoto)
+- [OSXfuse](http://osxfuse.github.io/) to load ext3/4 filesystems.
 - [CCMenu](http://ccmenu.sourceforge.net)
 - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - [Slack](https://slack.com) or [Slack Multi-Team Beta](https://rink.hockeyapp.net/apps/06bd6493684f65a3b8f47aca92c9006e)
